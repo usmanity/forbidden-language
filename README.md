@@ -46,3 +46,13 @@ It's like a regular scooter on steroids.
 ```
 I ate all your avocados. Sorry not sorry.
 ```
+
+'Like'
+```
+I feel like this is not okay.
+```
+
+'Culture fit'
+```
+The candidate was not a culture fit.
+```
